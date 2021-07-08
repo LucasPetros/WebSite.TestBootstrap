@@ -1,0 +1,91 @@
+*{
+    margin: 0px;
+    padding: 0px 0px;
+    text-decoration: none;
+}
+
+header {
+    font-size: 16px;
+}
+
+body{
+    background-color: rgb(29, 29, 29);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+
+}
+
+
+.logo{
+    color: rgb(253, 253, 253);
+    font-family: Impact, sans-serif;
+    font-size: 50px;
+
+}
+
+.navbar{
+    background-color: rgb(105, 206, 65);
+}
+
+.inicio{
+    color: white;
+    font-size: 40px;
+}
+
+.inicio h3{
+    font-size: 50px;
+}
+
+.inicio img{
+    justify-content: center;
+    align-items: center;
+    margin-right: -5%;
+    margin-left: -5%;
+}
+
+.margin{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.form-control{
+    width: 300px;
+    text-align: center;
+    
+}
+
+.filmes{
+    padding-top:10px;
+    padding-bottom:15px;
+    background-color: rgb(85, 202, 196);
+
+
+}
+
+.filmes h3{
+    font-size: 30px ;
+}
+
+.series{
+    color: khaki;   
+}
+.series h3{
+    font-size: 50px; 
+    color: rgb(62, 62, 230); 
+}
+.space{
+    padding-top: 50px;
+}
+
+.rodape{
+    padding: 20px;
+    background-color: rgb(77, 220, 245);
+}
+.carousel-inner{
+    width: 100%;
+}
+
+
+
+
+
